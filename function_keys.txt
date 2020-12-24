@@ -1,4 +1,4 @@
-The following are the Command Keywords for Gwen, the voice assistant-
+The following are the Command Keywords for Gwen, the virtual assistant-
 
 0. gwen - activation word
 1. time - to know the time
