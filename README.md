@@ -25,17 +25,31 @@ More features and packages are yet to be integrated into this program.
 The following python modules were employed-
 
 • speech_recognition 
+
 • PyAudio
+
 • pyttsx3 (python text to speech)
+
 • random
+
 • datetime
+
 • pywhatkit
+
 • wikipedia
+
 • pyjokes
+
 • wolframalpha (search engine that acts as the brain to the assistant)
+
 • sys
+
 • smtplib
+
 • COVID19Py
+
 • plyer
+
 • time
+
 • webbrowser
