@@ -1,0 +1,19 @@
+The following are the Command Keywords for Gwen, the voice assistant-
+
+0. gwen - activation word
+1. time - to know the time
+2. date - to know the date
+3. day - to know the day
+4. Hold on - to make Gwen wait
+5. virus news - to get updates on covid19
+6. tell me - to get answers of queries
+7. remind me - to set a reminder
+8. mail - to send a mail using gmail
+9. open my google account - to open your gmail inbox
+10. open a website - to open desired website
+11. search - to speak a wikipedia search
+12. look for - do a Google search
+13. joke - hear a joke
+14. play - play something on youtube
+
+#designed by Anurag Sen
